@@ -4,5 +4,6 @@
         <page name='ContainsDuplicate'/>
         <page name='Valid Anagram'/>
         <page name='Two Sum'/>
+        <page name='Group Anagrams'/>
     </pages>
 </playground>
