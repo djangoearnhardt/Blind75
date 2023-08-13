@@ -6,5 +6,6 @@
         <page name='Two Sum'/>
         <page name='Group Anagrams'/>
         <page name='Top K Frequent Elements'/>
+        <page name='Product of Array Except Self'/>
     </pages>
 </playground>

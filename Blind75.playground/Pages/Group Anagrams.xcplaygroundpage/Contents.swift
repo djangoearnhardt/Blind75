@@ -20,14 +20,13 @@
  */
 
 func groupAnagrams(_ strs: [String]) -> [[String]] {
-    if strs.isEmpty { return [] }
-    
-    var map = [String: [String]]()
+    var anagramDict = [String: [String]]() // Key : Value Array
     for str in strs {
         let sortedStr = String(str.sorted())
-        map[sortedStr, default: []] += [str]
+        anagramDict[sortedStr, default: []] += [str]
     }
-    return Array(map.values)
+    return Array(anagramDict.values)
 }
 
+groupAnagrams(["eat","tea","tan","ate","nat","bat"])
 //: [Next](@next)

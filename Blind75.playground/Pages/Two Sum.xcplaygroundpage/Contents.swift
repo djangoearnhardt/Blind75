@@ -20,13 +20,12 @@
  */
 
 func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
-    var solutionDict: [Int: Int] = [:] // [value: index]
+    var solutionDict: [Int: Int] = [:] // [value : index]
     for index in 0..<nums.count {
         if let found = solutionDict[target - nums[index]] {
             return [index, found]
-        } else {
-            solutionDict[nums[index]] = index
         }
+        solutionDict[nums[index]] = index
     }
     return []
 }
