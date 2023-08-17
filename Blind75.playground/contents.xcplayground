@@ -10,5 +10,6 @@
         <page name='Is Valid Sudoku'/>
         <page name='Encode and Decode Strings'/>
         <page name='Longest Consecutive Sequence'/>
+        <page name='Valid Palindrome'/>
     </pages>
 </playground>
