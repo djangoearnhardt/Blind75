@@ -11,5 +11,6 @@
         <page name='Encode and Decode Strings'/>
         <page name='Longest Consecutive Sequence'/>
         <page name='Valid Palindrome'/>
+        <page name='Two Sum II Input Array is Sorted'/>
     </pages>
 </playground>
