@@ -12,5 +12,6 @@
         <page name='Longest Consecutive Sequence'/>
         <page name='Valid Palindrome'/>
         <page name='Two Sum II Input Array is Sorted'/>
+        <page name='Three Sum'/>
     </pages>
 </playground>
