@@ -14,5 +14,6 @@
         <page name='Two Sum II Input Array is Sorted'/>
         <page name='Three Sum'/>
         <page name='Container With Most Water'/>
+        <page name='Trapping Rain Water'/>
     </pages>
 </playground>
