@@ -15,5 +15,6 @@
         <page name='Three Sum'/>
         <page name='Container With Most Water'/>
         <page name='Trapping Rain Water'/>
+        <page name='Valid Parenthesis'/>
     </pages>
 </playground>
