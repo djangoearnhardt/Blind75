@@ -16,5 +16,6 @@
         <page name='Container With Most Water'/>
         <page name='Trapping Rain Water'/>
         <page name='Valid Parenthesis'/>
+        <page name='Min Stack'/>
     </pages>
 </playground>
