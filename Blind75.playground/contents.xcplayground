@@ -17,5 +17,6 @@
         <page name='Trapping Rain Water'/>
         <page name='Valid Parenthesis'/>
         <page name='Min Stack'/>
+        <page name='Evaluate Reverse Polish Notation'/>
     </pages>
 </playground>
