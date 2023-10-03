@@ -18,5 +18,6 @@
         <page name='Valid Parenthesis'/>
         <page name='Min Stack'/>
         <page name='Evaluate Reverse Polish Notation'/>
+        <page name='Generate Parenthesis'/>
     </pages>
 </playground>
